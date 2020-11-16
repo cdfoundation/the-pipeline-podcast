@@ -1,5 +1,5 @@
-#The Pipeline: All things CD & DevOps Podcast by The CD Foundation
-##CDF Podcast Program Guidelines
+# The Pipeline: All things CD & DevOps Podcast by The CD Foundation
+## CDF Podcast Program Guidelines
 [Calendly Scheduling Link for Recording](https://calendly.com/cdfoundation/cdf-member-podcast?month=2020-11) 
 [The Pipeline - CDF Podcast landing page](https://cd.foundation/podcast/)
 [Submission Form](https://cd.foundation/podcast/podcast-submission-form/)
