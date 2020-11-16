@@ -1,9 +1,9 @@
 # The Pipeline: All things CD & DevOps Podcast by The CD Foundation
 ## CDF Podcast Program Guidelines
-[Calendly Scheduling Link for Recording](https://calendly.com/cdfoundation/cdf-member-podcast?month=2020-11) 
-[The Pipeline - CDF Podcast landing page](https://cd.foundation/podcast/)
-[Submission Form](https://cd.foundation/podcast/podcast-submission-form/)
-[CDF Podcast Buzzsprout url](https://cdeliveryfdn.buzzsprout.com/)
+- [Calendly Scheduling Link for Recording](https://calendly.com/cdfoundation/cdf-member-podcast?month=2020-11) 
+- [The Pipeline - CDF Podcast landing page](https://cd.foundation/podcast/)
+- [Submission Form](https://cd.foundation/podcast/podcast-submission-form/)
+- [CDF Podcast Buzzsprout url](https://cdeliveryfdn.buzzsprout.com/)
 ### Overview
 The goal of the podcast program is to offer developers digital content that is  – educational, fun, digestible, technical, and industry focused. This will be a 30 - 60  minute long discussion with hackers, thought leaders & innovators of open source software about CI/CD emerging practices, industry trends, tips, and important/hot topics. This will be published on a weekly cadence.    
 ### Why is the CDF starting a podcast program? 
