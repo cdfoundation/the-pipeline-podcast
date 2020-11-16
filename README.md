@@ -95,11 +95,12 @@ To choose a podcast date, go to the podcast calendar to view the available recor
 * Recording Podcast: Monday 9am-11am PT and Tuesday 1pm-3pm PT
 * Podcast Platform: Buzzsprout
 * Typical timing of the podcast: 
+\
 |30 minute podcast discussion breakdown:|Episode Outline:|Length:|Assignee:|
 |Podcast Intro:Title & Episode #|30 seconds|Pre-recorded|
 |Episode Intro: Topic & Guest Speaker|30 seconds|Host|
 |Segment: My DevOps Journey|1 min - 5 min|Host & Guest Speaker|
-|Episode Topic & Interview |15 min - 24 min|Host & Guest Speaker|
+|Episode Topic & Interview|15 min - 24 min|Host & Guest Speaker|
 |Podcast Wrap Up: Sign off|30 seconds|Pre-recorded|
 ### Summary 
 * Any questions on the podcast program, email jsalinas@cd.foundation. 
