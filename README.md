@@ -94,8 +94,8 @@ To choose a podcast date, go to the podcast calendar to view the available recor
 * Soundcheck: 5 mins at the beginning of the meeting
 * Recording Podcast: Monday 9am-11am PT and Tuesday 1pm-3pm PT
 * Podcast Platform: Buzzsprout
-* Typical timing of the podcast- 30 minute podcast discussion breakdown: 
-|Episode Outline:|Length|Assignee:|
+* Typical timing of the podcast: 
+|30 minute podcast discussion breakdown:|Episode Outline:|Length|Assignee:|
 |Podcast Intro:Title & Episode #|30 seconds|Pre-recorded|
 |Episode Intro: Topic & Guest Speaker|30 seconds|Host|
 |Segment: My DevOps Journey|1 min - 5 min|Host & Guest Speaker|
