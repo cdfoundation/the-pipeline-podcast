@@ -43,7 +43,6 @@ To choose a podcast date, go to the podcast calendar to view the available recor
 * Recording Podcast: Monday 9am-11am PT and Tuesday 1pm-3pm PT
 * Podcast Platform: Buzzsprout
 * Typical timing of the podcast: 
-\
 | Episode Outline: | Length: | Assignee: |  
 | ------------------------------------ |--------------- | -------------------- |
 | Podcast Intro: Title & Episode # | 30 seconds | Pre-recorded |  
