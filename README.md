@@ -45,9 +45,8 @@ To choose a podcast date, go to the podcast calendar to view the available recor
 * Typical timing of the podcast: 
 \
 \
-| Episode Outline: | Length: | Assignee: |  
-| --------------------------------- |--------------- | -------------------- |
-
+| Episode Outline | Length | Assignee |  
+| ----- | ----- | ---------- | 
 | Podcast Intro: Title & Episode # | 30 seconds | Pre-recorded |  
 | Episode Intro: Topic & Guest Speaker | 30 seconds | Host |  
 | Segment: My DevOps Journey | 1 min - 5 min | Host & Guest Speaker |  
