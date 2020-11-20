@@ -42,7 +42,6 @@ To choose a podcast date, go to the podcast calendar to view the available recor
 * Soundcheck: 5 mins at the beginning of the meeting
 * Recording Podcast: Monday 9am-11am PT and Tuesday 1pm-3pm PT
 * Podcast Platform: Buzzsprout
-* Typical timing of the podcast: 
 #### Podcast Episode Breakdown
 | Episode Outline | Length | Assignee |  
 | ----- | ----- | ---------- |
